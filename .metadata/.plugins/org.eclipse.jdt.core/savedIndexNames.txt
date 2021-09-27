@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\in 28 min\.metadata\.plugins\org.eclipse.jdt.core
+1640916364.index
+304456159.index
